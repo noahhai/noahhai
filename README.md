@@ -4,7 +4,7 @@
 I'm a data scientist and full stack developer.
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/noahhai?tab=repositories)
-<a href="https://github.com/BaseMax?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=noahhai&column=8&margin-w=15&margin-h=15" alt="basemax"></a> 
+<a href="https://github.com/noahhai?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=noahhai&column=8&margin-w=15&margin-h=15" alt="noahhai"></a> 
 <br />
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/noahhai?tab=repositories)
